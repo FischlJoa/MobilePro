@@ -1,1 +1,1 @@
-Feature-A is completed
+Feature-A and Feature-B are completed
